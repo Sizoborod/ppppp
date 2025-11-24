@@ -7,7 +7,7 @@ class Enemy:
         pass
 
     def attack(self):
-
+        print('attack, Ерлыгин')
         pass
 
     def Defence(self):

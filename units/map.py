@@ -1,9 +1,9 @@
 class Elem:
     def __init__(self):
-        pass
+        self.size = 256
 
     def broke(self):
         print('nastya_l')
 
     def coords(self):
-        pass
+        print(228, 69)

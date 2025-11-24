@@ -1,6 +1,6 @@
 class Hero:
     def __init__(self):
-        pass
+        self.move_ratio = 0
 
 
     def attack(self):

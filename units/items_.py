@@ -3,7 +3,7 @@
 
 class Items:
     def __int__(self):
-        pass
+        print("DilZam")
 
     def attack(self):
 

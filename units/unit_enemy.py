@@ -3,7 +3,7 @@
 
 class Enemy:
     def __int__(self):
-        # характеристики
+        print('init, Чугунов')
         pass
 
     def attack(self):
@@ -12,4 +12,3 @@ class Enemy:
 
     def Defence(self):
         print('defence, Садретдинов')
-

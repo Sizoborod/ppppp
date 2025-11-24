@@ -3,7 +3,7 @@ class Elem:
         pass
 
     def broke(self):
-        print('nastya_lastukhina')
+        print('nastya_l')
 
     def coords(self):
         pass

@@ -11,5 +11,5 @@ class Enemy:
         pass
 
     def Defence(self):
-        pass
+        print('defence, Садретдинов')
 

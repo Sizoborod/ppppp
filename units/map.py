@@ -3,7 +3,7 @@ class Elem:
         pass
 
     def broke(self):
-        pass
+        print('nastya_lastukhina')
 
     def coor(self):
         pass

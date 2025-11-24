@@ -3,11 +3,11 @@
 
 class Items:
     def __int__(self):
-        pass
+        print("DilZam")
 
-    def attack(self):
-
-        return 0
+    def attack(self, attacker):
+        if attacker:
+            return True
 
     def defence(self):
         print('vova ahrip')

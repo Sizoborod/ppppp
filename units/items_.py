@@ -10,4 +10,4 @@ class Items:
         return 0
 
     def defence(self):
-        pass
+        print('vova ahrip')

@@ -1,9 +1,9 @@
 class Elem:
-    def __int__(self):
+    def __init__(self):
         pass
 
     def broke(self):
-        pass
+        print('nastya_l')
 
-    def coor(self):
+    def coords(self):
         pass
